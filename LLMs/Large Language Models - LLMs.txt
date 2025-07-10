@@ -1,0 +1,21 @@
+Large Language Models -> LLMs
+Modelos de Linguagem de Grande Escala
+
+Os LLMs são o coração da IA moderna
+que envolvem desenvolvimento de software, produtos digitais, automação, data-science
+e linguagens humanas.
+
+Os LLMs são IAs treinadas para entender, gerar, traduzir ou brincar com a linguagem que utilizamos no dia a dia.
+
+ Duas características fundamentais:
+
+Capacidade de Generalização: É a habilidade do modelo de entender e responder
+coisas que nunca viu antes, de um modo que faça sentido. Ele não decora conhecimentos,
+ele recebe, estuda e aprende.
+
+
+Escabilidade: 
+
+
+LLM's são treinados com quantidades absurdas de dados e bilhões ou até trilhões de parâmetros.
+
